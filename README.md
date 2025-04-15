@@ -37,10 +37,6 @@ This project aims to predict student depression based on various academic, lifes
   - Correlation matrix to identify feature relationships.
   - Box plots, histograms, and violin plots to explore distributions and relationships with depression.
 
-### Statistical Analysis
-- **Linear Regression**: Explored linear relationships between features and depression. Results included slopes and R² values.
-- **Polynomial Regression**: Explored non-linear relationships between features and depression.
-
 ## Data Preprocessing
 
 ### Steps
