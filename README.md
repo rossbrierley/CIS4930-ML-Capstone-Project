@@ -80,6 +80,8 @@ This project aims to predict student depression based on various academic, lifes
    - **Training**: Early stopping, Adam optimizer, binary cross-entropy loss.
    - **Metrics**: Accuracy, Precision, Recall, AUC-ROC.
 
+7. **Feature Engineering**
+   - L1 Regularization, forward selection, backwards elimintation techniques.
+
 ### Evaluation Metrics
-- **Common Metrics**: Accuracy, Precision, Recall, F1, Confusion Matrix.
-- **Neural Networks**: Additional AUC-ROC curves and training history plots.
+- Accuracy, Precision, Recall, F1, Confusion Matrix.
